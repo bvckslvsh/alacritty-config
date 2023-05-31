@@ -14,4 +14,5 @@ You need to install FiraCode Nerd Font Mono first!!! Or edit config file content
 
 
 ![Screenshot_20230530_220820](https://github.com/bvckslvsh/alacritty-config/assets/119808481/aed77cbe-c7c4-4efa-8e05-46fd527fa752)
+![Screenshot_20230531_120928](https://github.com/bvckslvsh/alacritty-config/assets/119808481/4aef3c0f-c3b6-4649-b90d-9ad51052367a)
 ![Screenshot_20230530_220745](https://github.com/bvckslvsh/alacritty-config/assets/119808481/80000ac3-caa4-4411-bd17-eb76b17ec920)
